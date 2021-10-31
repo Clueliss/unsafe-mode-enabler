@@ -1,0 +1,10 @@
+{
+	"extension-id": "unsafe-mode-enabler",
+	"uuid": "unsafe-mode-enabler@Clueliss.github.com", 
+	"name": "Unsafe Mode Enabler", 
+ 	"gettext-domain": "gnome-shell-extensions",
+	"description": "Enables global.context.unsafe_mode to allow org.gnome.Shell.Eval dbus calls", 
+	"url": "https://github.com/Clueliss/unsafe-mode-enabler", 
+	"version": 1,
+	"shell-version": ["41"]
+}
